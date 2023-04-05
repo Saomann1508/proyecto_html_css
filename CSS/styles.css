@@ -1,0 +1,15 @@
+body {
+    font-family: 'Gill Sans', sans-serif;
+    font-size: 10px;
+    background-color: rgb(255, 166, 0);
+    background-image: url("./images/bg-image.jpg");
+}
+
+h2 {
+    background-color: rgba(128, 128, 0, 0.3);
+}
+
+a {
+    background-color: rgba(128, 128, 0, 0.2);
+    color: #ffffff;
+}
