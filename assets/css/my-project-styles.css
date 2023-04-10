@@ -132,7 +132,7 @@ nav > ul > li > a {
 
 button {
     background: orangered;
-    color: black;
+    color: white;
     padding: 14px;
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
@@ -151,6 +151,16 @@ button label {
     color: white;
     font-weight: 600;
 }
+
+.Arrow-icon {
+    width: 24%;
+    margin-inline-end: 2px;
+    margin-inline-start: 2px;
+    margin-block-start: 2px;
+    margin-block-end: 2px;
+}
+
+
 
 footer {
     background: orangered;
