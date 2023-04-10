@@ -112,7 +112,7 @@ nav > ul > li > a {
 }
 
 .card_info img {
-    width: 33%;
+    width: 22%;
     border-radius: 50%;
     margin-block-start: 26px;
     margin-block-end: 10px;
@@ -120,6 +120,7 @@ nav > ul > li > a {
     margin-inline-start: 26px;
     border: 3px solid orangered;
     box-shadow: 6px 6px 8px #ccc;
+    float: left; width: 220px;
 }
 
 .card_info article {
@@ -127,6 +128,28 @@ nav > ul > li > a {
     width: 51%;
     font-size: 15px;
     font-family: monospace;
+}
+
+button {
+    background: orangered;
+    color: black;
+    padding: 14px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    text-align: center;
+    font-size: 16px;
+    font-family: monospace;
+    font-weight: initial;
+    float: center;
+}
+
+button label {
+    float: left;
+    margin-block-start: 16px;
+    margin-inline-start: 130px;
+    font-size: 17px;
+    color: white;
+    font-weight: 600;
 }
 
 footer {
