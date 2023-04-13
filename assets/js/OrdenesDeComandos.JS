@@ -1,1 +1,6 @@
-// Ordenes de comandos para pagina web de proyecto
+/********************COMANDOS DE PAGINA DE PRESENTACIÓN PERSONAL**************** */
+var barraSuperior = [
+    {
+        
+    }
+]
